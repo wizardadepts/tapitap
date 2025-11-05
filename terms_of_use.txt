@@ -1,5 +1,5 @@
 Terms of Use for Tapi Tap
-Last Updated: November 4, 2025
+Last Updated: November 5, 2025
 
 Welcome to Tapi Tap (the "App"). These Terms of Use ("Terms") govern your access to and use of our mobile application and related services (collectively, the "Service"). Please read these Terms carefully before using the Service.
 
@@ -47,5 +47,4 @@ These Terms shall be governed and construed in accordance with the laws of Polan
 
 11. Contact Us
 If you have any questions about these Terms, please contact us at:
-wizardadepts@gmail.com
-
+tapitap@wizardsforge.pl
