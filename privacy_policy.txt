@@ -1,5 +1,5 @@
 Privacy Policy for Tapitap
-Last Updated: 27.10.2025
+Last Updated: November 5, 2025
 
 This Privacy Policy describes the privacy practices for the mobile application "Tapitap" (hereinafter referred to as "the App"), developed for Android devices.
 
@@ -39,6 +39,6 @@ We may update our Privacy Policy from time to time. Thus, we advise you to revie
 7. Contact Us
 
 If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us at:
-wizardadepts@gmail.com
+tapitap@wizardsforge.pl
 
 By using the App, you agree to the terms of this Privacy Policy.
